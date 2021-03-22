@@ -8,8 +8,8 @@ of stuff like Web Development, CTF's, Forensics, Emulation etc.
 ![Editor](https://img.shields.io/static/v1?label=Editor&message=IntelliJ%20IDEA&color=347d39&logo=intellij%20idea)
 
 ## 📱 Social
-![Keybase](https://img.shields.io/keybase/pgp/pascalklassen?color=347d39&label=Keybase&logo=keybase)
-![Twitter](https://img.shields.io/twitter/follow/klassenpascal22?style=social)
+[![Keybase](https://img.shields.io/keybase/pgp/pascalklassen?color=347d39&label=Keybase&logo=keybase)](https://keybase.io/pascalklassen)
+[![Twitter](https://img.shields.io/twitter/follow/klassenpascal22?style=social)](https://twitter.com/klassenpascal22)
 
 ## 📊 GitHub Stats
 [![Pascal Klaßen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalklassen&show_icons=true&title_color=adbac7&text_color=adbac7&icon_color=347d39&bg_color=22272e&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
