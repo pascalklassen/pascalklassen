@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+I'm 21 years old and a becoming student at the [FH Aachen
+University of Applied Sciences](https://www.fh-aachen.de/) in Aachen, Germany. I am interested in a lot
+of stuff like Web Development, CTF's, Forensics, Emulation etc.
 
-<!--
-**pascalklassen/pascalklassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies and Tools
+![Linux](https://img.shields.io/static/v1?label=UNIX%20OS&message=Manjaro&color=347d39&logo=manjaro)
+![Editor](https://img.shields.io/static/v1?label=Editor&message=IntelliJ%20IDEA&color=347d39&logo=intellij%20idea)
 
-Here are some ideas to get you started:
+## 📱 Social
+![Keybase](https://img.shields.io/keybase/pgp/pascalklassen?color=347d39&label=Keybase&logo=keybase)
+![Twitter](https://img.shields.io/twitter/follow/klassenpascal22?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+[![Pascal Klaßen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalklassen&show_icons=true&title_color=adbac7&text_color=adbac7&icon_color=347d39&bg_color=22272e&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascalklassen&layout=compact&title_color=adbac7&text_color=adbac7&icon_color=347d39&bg_color=22272e&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
